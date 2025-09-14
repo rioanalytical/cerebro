@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ZOOM-300",
+    "project": "mobile-v3.2",
+    "participants": [
+      "alice",
+      "bob",
+      "pm"
+    ],
+    "transcript": "Alice: we will need design sign-off. Bob: I can pick it after lunch. PM: schedule a 15-min decision sync if unresolved.",
+    "date": "2025-09-10T14:00:00"
+  }
+]

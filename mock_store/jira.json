@@ -1,0 +1,18 @@
+[
+  {
+    "id": "JIRA-101",
+    "project": "mobile-v3.2",
+    "summary": "Login crash on Android 13",
+    "status": "In Progress",
+    "assignee": "alice",
+    "updated": "2025-09-10T09:12:00"
+  },
+  {
+    "id": "JIRA-110",
+    "project": "mobile-v3.2",
+    "summary": "Implement new onboarding flow",
+    "status": "Ready for QA",
+    "assignee": "bob",
+    "updated": "2025-09-11T16:00:00"
+  }
+]

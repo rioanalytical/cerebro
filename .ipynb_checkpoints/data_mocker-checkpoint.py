@@ -89,13 +89,9 @@ def list_sources():
 def run_mock_api():
     uvicorn.run(mock_api, host="127.0.0.1", port=8001, log_level="warning")
 
-#mock_thread = threading.Thread(target=run_mock_api, daemon=True)
-#mock_thread.start()
-run_mock_api()
+mock_thread = threading.Thread(target=run_mock_api, daemon=True)
+mock_thread.start()
 print("mocck thread started")
 # Small delay to let mock API start
 time.sleep(0.8)
-
-
-
 

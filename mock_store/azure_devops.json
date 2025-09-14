@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ADO-501",
+    "project": "infra",
+    "summary": "Update staging with DB migration",
+    "status": "Open",
+    "assignee": "devops",
+    "updated": "2025-09-09T11:00:00"
+  }
+]

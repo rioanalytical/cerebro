@@ -1,0 +1,13 @@
+[
+  {
+    "id": "EMAIL-501",
+    "project": "mobile-v3.2",
+    "from": "pm@example.com",
+    "to": [
+      "team@example.com"
+    ],
+    "subject": "Design approval needed",
+    "body": "Design must be approved by Monday. @designer please confirm.",
+    "date": "2025-09-11T08:00:00"
+  }
+]

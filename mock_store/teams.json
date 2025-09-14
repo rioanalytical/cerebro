@@ -1,0 +1,18 @@
+[
+  {
+    "id": "MSG-9001",
+    "project": "mobile-v3.2",
+    "channel": "#mobile-release",
+    "user": "carol",
+    "text": "I think the onboarding copy needs legal review. Action: @legal to review by 2025-09-13.",
+    "ts": "2025-09-11T12:34:00"
+  },
+  {
+    "id": "MSG-9002",
+    "project": "mobile-v3.2",
+    "channel": "#mobile-release",
+    "user": "dave",
+    "text": "We deployed a fix to staging. Noticed a flakey test. TODO: investigate failing e2e.",
+    "ts": "2025-09-11T15:00:00"
+  }
+]
